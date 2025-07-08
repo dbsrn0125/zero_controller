@@ -1,0 +1,8 @@
+<root main_tree_to_execute="MainTree" BTCPP_format="4">
+  <BehaviorTree ID="MainTree">
+    <Sequence>
+      <DeactivateNode node_name="auto_1_node"/>
+      <ActivateNode   node_name="auto_2_node"/>
+    </Sequence>
+  </BehaviorTree>
+</root>

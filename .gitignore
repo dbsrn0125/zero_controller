@@ -1,0 +1,7 @@
+# Build and log files
+/build/
+/install/
+/log/
+
+# IDE settings
+.vscode/
